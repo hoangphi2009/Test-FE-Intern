@@ -1,0 +1,80 @@
+.dropzone {
+    border: 2px dashed #0087f7;
+    padding: 40px;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+.dropzone p {
+    font-size: 18px;
+    color: #555;
+}
+
+.search-input {
+    padding: 10px;
+    margin: 20px auto;
+    width: 300px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.table-container {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+@media (max-width: 768px) {
+    .table-container {
+        max-width: 95%;
+    }
+}
+
+@media (max-width: 480px) {
+    .table-container {
+        max-width: 100%;
+    }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    text-align: left;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #008CBA;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.clear-button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.clear-button:hover {
+    background-color: darkred;
+}
