@@ -43,13 +43,20 @@ Thông báo cảnh báo khi sai đầu vào
 ![image](https://github.com/user-attachments/assets/3d59a12c-1568-419b-9892-9098ddcf2e87)
 
 Chọn ngày 
+
 ![image](https://github.com/user-attachments/assets/d0dfd420-60c1-4954-a287-f74f3c776131)
+
 Chọn trụ
+
 ![image](https://github.com/user-attachments/assets/a7667c4b-5fc6-41d6-86ef-ab617ac1817f)
 
 ![image](https://github.com/user-attachments/assets/89f19eb9-bac1-4779-ac2f-49eac1d06aeb)
+
 Thông báo thành công
+
 ![image](https://github.com/user-attachments/assets/d46960dc-df4c-47d6-aa2d-0ccfd6596ff9)
+
 ### Object
+
 ![image](https://github.com/user-attachments/assets/67e5b4ad-0960-4f9a-9ccc-e13f0072d0cd)
 
