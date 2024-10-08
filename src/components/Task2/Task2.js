@@ -41,19 +41,18 @@ const Task2 = () => {
                     <Form className="transaction-form">
                         <div className="form-group">
                             <label htmlFor="time">Thời gian</label>
-                            <Field type="datetime-local" name="time" />
+                            <Field type="datetime-local" id="time" name="time" />
                             <ErrorMessage name="time" component="div" className="error-message" />
                         </div>
-
                         <div className="form-group">
                             <label htmlFor="quantity">Số lượng (lít)</label>
-                            <Field type="number" step="0.01" name="quantity" />
+                            <Field type="number" step="0.01" id="quantity" name="quantity" />
                             <ErrorMessage name="quantity" component="div" className="error-message" />
                         </div>
 
                         <div className="form-group">
                             <label htmlFor="pump">Trụ</label>
-                            <Field as="select" name="pump">
+                            <Field as="select" id="pump" name="pump">
                                 <option value="">Chọn trụ...</option>
                                 <option value="Trụ 1">Trụ 1</option>
                                 <option value="Trụ 2">Trụ 2</option>
@@ -65,13 +64,13 @@ const Task2 = () => {
 
                         <div className="form-group">
                             <label htmlFor="revenue">Doanh thu (VND)</label>
-                            <Field type="number" name="revenue" />
+                            <Field type="number" id="revenue" name="revenue" />
                             <ErrorMessage name="revenue" component="div" className="error-message" />
                         </div>
 
                         <div className="form-group">
                             <label htmlFor="unitPrice">Đơn giá (VND)</label>
-                            <Field type="number" name="unitPrice" />
+                            <Field type="number" id="unitPrice" name="unitPrice" />
                             <ErrorMessage name="unitPrice" component="div" className="error-message" />
                         </div>
 

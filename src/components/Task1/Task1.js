@@ -39,7 +39,10 @@ const Task1 = () => {
 
     const { getRootProps, getInputProps } = useDropzone({
         onDrop: handleFileUpload,
-        accept: ".xlsx, .xls",
+        accept: {
+            'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet': ['.xlsx'],
+            'application/vnd.ms-excel': ['.xls']
+        }
     });
 
     const handleFilter = (query) => {
