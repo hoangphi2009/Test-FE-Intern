@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import './App.css';
 import Task1 from "./components/Task1/Task1";
 import Task2 from "./components/Task2/Task2";
-
 const App = () => {
   return (
     <Router>
