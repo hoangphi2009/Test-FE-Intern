@@ -1,4 +1,4 @@
-# Chào mừng đến bài Test FE
+![image](https://github.com/user-attachments/assets/a23e533e-259b-4f8e-ab29-64f77727709a)# Chào mừng đến bài Test FE
 ## Tên Tôi là Đỗ Tấn Hoàng Phi. Sinh viên Đại Học Quốc Tế - Đại Học Quốc Gia TP.HCM
 ### Sau đây là hình ảnh của các Task
 In the project directory, you can run:
@@ -59,4 +59,10 @@ Thông báo thành công
 ### Object
 
 ![image](https://github.com/user-attachments/assets/67e5b4ad-0960-4f9a-9ccc-e13f0072d0cd)
+
+## Task 4
+
+![image](https://github.com/user-attachments/assets/98e2868b-8aad-40d0-ba72-b6384bc5a181)
+
+![Screenshot 2024-10-10 003026](https://github.com/user-attachments/assets/4d695875-53c9-46b4-8e13-3b9b8ab0b4bf)
 
