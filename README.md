@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a23e533e-259b-4f8e-ab29-64f77727709a)# Chào mừng đến bài Test FE
+# Chào mừng đến bài Test FE
 ## Tên Tôi là Đỗ Tấn Hoàng Phi. Sinh viên Đại Học Quốc Tế - Đại Học Quốc Gia TP.HCM
 ### Sau đây là hình ảnh của các Task
 In the project directory, you can run:
